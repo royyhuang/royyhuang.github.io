@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuyang Huang"
 title_separator          : "-"
 name                     : &name "Yuyang Huang"
 description              : &description "CS PhD student @UChicago CS"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuyang (Roy) Hunag"
-  avatar           : "profile.png"
+  avatar           : "royhuang.JPG"
   bio              : "Ph.D. Student @ UChicago"
   location         : "Chicago, IL"
   employer         :
