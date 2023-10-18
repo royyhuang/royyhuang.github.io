@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 I'm a first-year PhD student in the Department of CS at University of Chicago,
-advised by Prof. Haryadi S. Gunawi. My research interest is Systems/Software
-engineering for ML. I received my B.S. in CSE at the Ohio State University,
-advised by Prof. Yang Wang. I also received Master degree at University of
-Chicago in Computer Science Pre-Doc program advised by Prof. Junchen Jiang and
-Prof. Haryadi S. Gunawi.
+advised by Prof. Haryadi S. Gunawi. My research interests are operating system,
+storage, system for ML or ML for system. I received my B.S. in CSE at the Ohio
+State University, advised by Prof. Yang Wang. I also received my Master degree
+at University of Chicago in Computer Science Pre-Doc program co-advised by
+Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 ## Publications
 - Kuntai Du, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, **Yuyang
