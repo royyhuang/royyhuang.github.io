@@ -25,6 +25,13 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
   Ren, Tianxi Li, and Xiaoyi Lu. *A Study of Database Performance Sensitivity
   to Experiment Settings.* **VLDB '22**
 
+## Preprint
+- Yuhan Liu, Hanchen Li, Kuntai Du, Jiayi Yao, Yihua Cheng, **Yuyang Huang**, Shan
+  Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan,
+  Junchen Jiang, CacheGen: Fast Context Loading for Language Model
+  Applications, Arxiv (in submission)
+
+
 ## Teaching
 - Operating System (CMSC 23000), Teaching Assistant, Spring 2023, Fall 2023
 - Intro to Computer Systems (CMSC 15400), Teaching Assistant, Fall 2022
