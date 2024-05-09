@@ -18,8 +18,8 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 ## Publications
 - Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, **Yuyang Huang**, Qizheng
   Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire,
-  Henry Hoffmann, Ari Holtzman, Junchen Jiang, CacheGen: KV Cache Compression
-  and Streaming for Fast Language Model Serving, **SIGCOMM '24**
+  Henry Hoffmann, Ari Holtzman, Junchen Jiang, *CacheGen: KV Cache Compression
+  and Streaming for Fast Language Model Serving*, **SIGCOMM '24**
 - Kuntai Du, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, **Yuyang
   Huang**, Ganesh Ananthanaryanan, and Junchen Jiang. *OneAdapt: Fast
   Adaptation for Deep Learning Applications via Backpropagation.* **SoCC '23**
