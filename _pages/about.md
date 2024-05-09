@@ -15,6 +15,10 @@ at University of Chicago in Computer Science Pre-Doc program co-advised by
 Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 ## Publications
+- Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, **Yuyang Huang**, Qizheng
+  Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire,
+  Henry Hoffmann, Ari Holtzman, Junchen Jiang, CacheGen: KV Cache Compression
+  and Streaming for Fast Language Model Serving, **SIGCOM 24**
 - Kuntai Du, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, **Yuyang
   Huang**, Ganesh Ananthanaryanan, and Junchen Jiang. *OneAdapt: Fast
   Adaptation for Deep Learning Applications via Backpropagation.* **SoCC '23**
@@ -25,13 +29,7 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
   Ren, Tianxi Li, and Xiaoyi Lu. *A Study of Database Performance Sensitivity
   to Experiment Settings.* **VLDB '22**
 
-## Preprint
-- Yuhan Liu, Hanchen Li, Kuntai Du, Jiayi Yao, Yihua Cheng, **Yuyang Huang**, Shan
-  Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan,
-  Junchen Jiang, CacheGen: Fast Context Loading for Language Model
-  Applications, Arxiv (in submission)
-
 
 ## Teaching
 - Operating System (CMSC 23000), Teaching Assistant, Spring 2023, Fall 2023
-- Intro to Computer Systems (CMSC 15400), Teaching Assistant, Fall 2022
+- Intro to Computer Systems (CMSC 15400), Teaching Assistant, Winter 2024, Fall 2022
