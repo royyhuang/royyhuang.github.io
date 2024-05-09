@@ -7,18 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year PhD student in the Department of CS at University of Chicago,
+I'm a second-year PhD student in the Department of CS at University of Chicago,
 advised by Prof. Haryadi S. Gunawi. My research interests are operating system,
 storage, system for ML or ML for system. I received my B.S. in CSE at the Ohio
 State University, advised by Prof. Yang Wang. I also received my Master degree
 at University of Chicago in Computer Science Pre-Doc program co-advised by
 Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
+
 ## Publications
 - Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, **Yuyang Huang**, Qizheng
   Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire,
   Henry Hoffmann, Ari Holtzman, Junchen Jiang, CacheGen: KV Cache Compression
-  and Streaming for Fast Language Model Serving, **SIGCOM 24**
+  and Streaming for Fast Language Model Serving, **SIGCOM '24**
 - Kuntai Du, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, **Yuyang
   Huang**, Ganesh Ananthanaryanan, and Junchen Jiang. *OneAdapt: Fast
   Adaptation for Deep Learning Applications via Backpropagation.* **SoCC '23**
