@@ -16,6 +16,9 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 
 ## Publications
+- **Yuyang Huang**, Faishal Zharfan, Hendrawan Hendrawan, Haryadi S. Gunawi and
+  Junchen Jiang, *Concierge: Towards Accuracy-Driven Bandwidth Allocation for
+  Video Analytics Applications in Edge Network.* **EDGE '24**
 - Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, **Yuyang Huang**, Qizheng
   Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire,
   Henry Hoffmann, Ari Holtzman, Junchen Jiang, *CacheGen: KV Cache Compression
