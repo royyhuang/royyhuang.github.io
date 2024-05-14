@@ -28,7 +28,7 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
   Adaptation for Deep Learning Applications via Backpropagation.* **SoCC '23**
 - Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
   and Junchen Jiang. *DEFT: SLO-Driven Preemptive Scheduling for Containerized
-  DNN Serving.* **NSDI '23**
+  DNN Serving.* **NSDI '23 Poster**
 - Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, **Yuyang Huang**, Rui Zhu, Xueyuan
   Ren, Tianxi Li, and Xiaoyi Lu. *A Study of Database Performance Sensitivity
   to Experiment Settings.* **VLDB '22**
