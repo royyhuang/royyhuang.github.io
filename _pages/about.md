@@ -34,6 +34,10 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
   to Experiment Settings.* **VLDB '22**
 
 
+## Internship
+- Ph.D. Research Intern, Microsoft Research, Summer 2024 
+
+
 ## Teaching
 - Operating System (CMSC 23000), Teaching Assistant, Spring 2023, Fall 2023
 - Intro to Computer Systems (CMSC 15400), Teaching Assistant, Winter 2024, Fall 2022
