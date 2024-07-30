@@ -29,7 +29,7 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 - Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, **Yuyang Huang**, Rui Zhu, Xueyuan
   Ren, Tianxi Li, and Xiaoyi Lu. *A Study of Database Performance Sensitivity
-  to Experiment Settings.* **VLDB '22
+  to Experiment Settings.* **VLDB '22**
 
 ## Workshops and Posters
 - Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
