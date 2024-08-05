@@ -16,7 +16,7 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 
 ## Publications
-- **Yuyang Huang**, Faishal Zharfan, Hendrawan Hendrawan, Haryadi S. Gunawi and
+- **Yuyang Huang**, Faishal Zharfan, Hendrawan, Haryadi S. Gunawi and
   Junchen Jiang, *Concierge: Towards Accuracy-Driven Bandwidth Allocation for
   Video Analytics Applications in Edge Network.* **IEEE EDGE '24**
 - Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, **Yuyang Huang**, Qizheng
@@ -26,7 +26,6 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 - Kuntai Du, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, **Yuyang
   Huang**, Ganesh Ananthanaryanan, and Junchen Jiang. *OneAdapt: Fast
   Adaptation for Deep Learning Applications via Backpropagation.* **SoCC '23**
-
 - Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, **Yuyang Huang**, Rui Zhu, Xueyuan
   Ren, Tianxi Li, and Xiaoyi Lu. *A Study of Database Performance Sensitivity
   to Experiment Settings.* **VLDB '22**
@@ -38,7 +37,6 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
   
 ## Internship
 - Ph.D. Research Intern, Microsoft Research, Summer 2024 
-
 
 ## Teaching
 - Operating System (CMSC 23000), Teaching Assistant, Spring 2023, Fall 2023
