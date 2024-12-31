@@ -57,7 +57,7 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 ## Workshops and Posters
 - *DEFT: SLO-Driven Preemptive Scheduling for Containerized DNN Serving.*
 
- Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
+  Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
   and Junchen Jiang.  
   
   **NSDI '23 Poster**
