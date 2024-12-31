@@ -16,29 +16,51 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 
 ## Publications
-- **Yuyang Huang**, Faishal Zharfan, Hendrawan, Haryadi S. Gunawi and
-  Junchen Jiang, *Concierge: Towards Accuracy-Driven Bandwidth Allocation for
-  Video Analytics Applications in Edge Network.* **IEEE EDGE '24**
-- Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, **Yuyang Huang**, Qizheng
+- *Concierge: Towards Accuracy-Driven Bandwidth Allocation for
+  Video Analytics Applications in Edge Network.*
+  
+  **Yuyang Huang**, Faishal Zharfan, Hendrawan, Haryadi S. Gunawi and
+  Junchen Jiang.
+
+  **IEEE EDGE '24**
+
+- *CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving*,
+
+  Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, **Yuyang Huang**, Qizheng
   Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire,
-  Henry Hoffmann, Ari Holtzman, Junchen Jiang, *CacheGen: KV Cache Compression
-  and Streaming for Fast Language Model Serving*, **SIGCOMM '24**
-- Kuntai Du, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, **Yuyang
-  Huang**, Ganesh Ananthanaryanan, and Junchen Jiang. *OneAdapt: Fast
-  Adaptation for Deep Learning Applications via Backpropagation.* **SoCC '23**
-- Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, **Yuyang Huang**, Rui Zhu, Xueyuan
-  Ren, Tianxi Li, and Xiaoyi Lu. *A Study of Database Performance Sensitivity
-  to Experiment Settings.* **VLDB '22**
+  Henry Hoffmann, Ari Holtzman, Junchen Jiang.
+
+  **SIGCOMM '24**
+
+- *OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation.*
+  
+  Kuntai Du, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, **Yuyang
+  Huang**, Ganesh Ananthanaryanan, and Junchen Jiang.
+
+  **SoCC '23**
+
+- *A Study of Database Performance Sensitivity to Experiment Settings.*
+  
+  Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, **Yuyang Huang**, Rui Zhu, Xueyuan
+  Ren, Tianxi Li, and Xiaoyi Lu.
+
+  **VLDB '22**
 
 ## Preprint
-- Yuhan Liu, **Yuyang Huang**, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li,
-  Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse, *DroidSpeak:
-  KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving.* **Arixv**
+- *DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving.*
+
+  Yuhan Liu, **Yuyang Huang**, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li,
+  Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.
+
+  **Arixv**
 
 ## Workshops and Posters
-- Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
-  and Junchen Jiang. *DEFT: SLO-Driven Preemptive Scheduling for Containerized
-  DNN Serving.* **NSDI '23 Poster**
+- *DEFT: SLO-Driven Preemptive Scheduling for Containerized DNN Serving.*
+
+ Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
+  and Junchen Jiang.  
+  
+  **NSDI '23 Poster**
   
 ## Internship
 - Ph.D. Research Intern, Microsoft Research, Summer 2024 
