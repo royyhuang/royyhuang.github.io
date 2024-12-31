@@ -30,6 +30,11 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
   Ren, Tianxi Li, and Xiaoyi Lu. *A Study of Database Performance Sensitivity
   to Experiment Settings.* **VLDB '22**
 
+## Preprint
+- Yuhan Liu, **Yuyang Huang**, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li,
+  Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse, *DroidSpeak:
+  KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving.* **Arixv**
+
 ## Workshops and Posters
 - Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
   and Junchen Jiang. *DEFT: SLO-Driven Preemptive Scheduling for Containerized
