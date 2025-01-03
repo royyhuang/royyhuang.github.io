@@ -17,49 +17,37 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 ## Publications
 - *Concierge: Towards Accuracy-Driven Bandwidth Allocation for
-  Video Analytics Applications in Edge Network.*
-  
+  Video Analytics Applications in Edge Network*\
   **Yuyang Huang**, Faishal Zharfan, Hendrawan, Haryadi S. Gunawi and
-  Junchen Jiang.
-
+  Junchen Jiang\
   **IEEE EDGE '24**
 
-- *CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving*,
-
+- *CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving*\
   Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, **Yuyang Huang**, Qizheng
   Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire,
-  Henry Hoffmann, Ari Holtzman, Junchen Jiang.
-
+  Henry Hoffmann, Ari Holtzman, Junchen Jiang\
   **SIGCOMM '24**
 
-- *OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation.*
-  
+- *OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation*\
   Kuntai Du, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, **Yuyang
-  Huang**, Ganesh Ananthanaryanan, and Junchen Jiang.
-
+  Huang**, Ganesh Ananthanaryanan, and Junchen Jiang\
   **SoCC '23**
 
-- *A Study of Database Performance Sensitivity to Experiment Settings.*
-  
+- *A Study of Database Performance Sensitivity to Experiment Settings*\
   Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, **Yuyang Huang**, Rui Zhu, Xueyuan
-  Ren, Tianxi Li, and Xiaoyi Lu.
-
+  Ren, Tianxi Li, and Xiaoyi Lu\
   **VLDB '22**
 
 ## Preprint
-- *DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving.*
-
+- *DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving*\
   Yuhan Liu, **Yuyang Huang**, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li,
-  Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse.
-
-  **Arixv**
+  Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse\
+  **Arxiv**
 
 ## Workshops and Posters
-- *DEFT: SLO-Driven Preemptive Scheduling for Containerized DNN Serving.*
-
+- *DEFT: SLO-Driven Preemptive Scheduling for Containerized DNN Serving*\
   Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
-  and Junchen Jiang.  
-  
+  and Junchen Jiang\
   **NSDI '23 Poster**
   
 ## Internship
