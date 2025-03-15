@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second-year PhD student in the Department of CS at University of Chicago,
+I'm a third-year PhD student in the Department of CS at University of Chicago,
 advised by Prof. Haryadi S. Gunawi. My research interests are operating system,
 storage, system for ML or ML for system. I received my B.S. in CSE at the Ohio
 State University, advised by Prof. Yang Wang. I also received my Master degree
@@ -16,6 +16,10 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 
 ## Publications
+- *GPEmu: A GPU Emulator for Faster and Cheaper Prototyping and Evaluation of Deep Learning System Research*\
+  Meng Wang, Gus Waldspurger, Naufal Rezky Ananda, **Yuyang Huang**, Kemas Wiharja, John Bent, Swaminathan Sundararaman, Vijay Chidambaram, Haryadi S. Gunawi\
+  **VLDB '25 To Appear**
+
 - *Concierge: Towards Accuracy-Driven Bandwidth Allocation for
   Video Analytics Applications in Edge Network*\
   **Yuyang Huang**, Faishal Zharfan, Hendrawan, Haryadi S. Gunawi and
