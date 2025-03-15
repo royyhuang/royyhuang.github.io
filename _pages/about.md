@@ -44,7 +44,7 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 ## Preprint
 - *Alchemist: Towards the Design of Efficient Online Continual Learning System*\
-  Yuyang Huang, Yuhan Liu, Haryadi S. Gunawi, Beibin Li, Changho Hwang\
+  **Yuyang Huang**, Yuhan Liu, Haryadi S. Gunawi, Beibin Li, Changho Hwang\
   **arXiv**
 
 - *DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving*\
