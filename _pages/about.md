@@ -51,11 +51,6 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
   **Yuyang Huang**, Yuhan Liu, Haryadi S. Gunawi, Beibin Li, Changho Hwang\
   **arXiv**
 
-- *DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving*\
-  Yuhan Liu, **Yuyang Huang**, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li,
-  Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse\
-  **arXiv**
-
 ## Workshops and Posters
 - *DEFT: SLO-Driven Preemptive Scheduling for Containerized DNN Serving*\
   Yitian Hao, Wenqing Wu, Ziyi Zhang, **Yuyang Huang**, Chen Wang, Jun Duan,
