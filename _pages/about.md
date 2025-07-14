@@ -16,7 +16,7 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 
 ## Publications
-- *DroidSync: Efficient Context Sharing for Multiple-LLM Inference*\
+- *DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving*\
   Yuhan Liu, **Yuyang Huang**, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse\
   **NSDI '26 To Appear**
 
