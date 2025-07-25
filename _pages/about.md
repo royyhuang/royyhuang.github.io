@@ -15,7 +15,7 @@ at University of Chicago in Computer Science Pre-Doc program co-advised by
 Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 
-## Publications and Preprint
+## Publications and Preprints
 - *Alchemist: Towards the Design of Efficient Online Continual Learning System*\
   **Yuyang Huang**, Yuhan Liu, Haryadi S. Gunawi, Beibin Li, Changho Hwang\
   **arXiv**
