@@ -15,7 +15,11 @@ at University of Chicago in Computer Science Pre-Doc program co-advised by
 Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
 
 
-## Publications
+## Publications and Preprint
+- *Alchemist: Towards the Design of Efficient Online Continual Learning System*\
+  **Yuyang Huang**, Yuhan Liu, Haryadi S. Gunawi, Beibin Li, Changho Hwang\
+  **arXiv**
+
 - *DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving*\
   Yuhan Liu, **Yuyang Huang**, Jiayi Yao, Zhuohan Gu, Kuntai Du, Hanchen Li, Yihua Cheng, Junchen Jiang, Shan Lu, Madan Musuvathi, Esha Choukse\
   **NSDI '26 To Appear**
@@ -45,11 +49,6 @@ Prof. Junchen Jiang and Prof. Haryadi S. Gunawi.
   Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, **Yuyang Huang**, Rui Zhu, Xueyuan
   Ren, Tianxi Li, and Xiaoyi Lu\
   **VLDB '22**
-
-## Preprint
-- *Alchemist: Towards the Design of Efficient Online Continual Learning System*\
-  **Yuyang Huang**, Yuhan Liu, Haryadi S. Gunawi, Beibin Li, Changho Hwang\
-  **arXiv**
 
 ## Workshops and Posters
 - *DEFT: SLO-Driven Preemptive Scheduling for Containerized DNN Serving*\
